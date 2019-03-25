@@ -1,6 +1,6 @@
 # Encoder that encodes the faces that are in data sets
 # Use the command below 
-# python face_encodings.py --dataset dataset --encodings encoded.pickle --detection-method hog
+# python face_encoding.py --dataset dataset --encodings encoded.pickle --detection-method hog
 # Samiran Das - github.com/samiran-das
 
 
